@@ -22,7 +22,7 @@ namespace Savarankikas3
         }
         public void ApskaiciuotiStaciakampioPlota()
         {
-            Console.WriteLine("Staciakampi {staciakampis} plotas yra: {ilgis * plotis}");
+            Console.WriteLine("Staciakampio {0} plotas yra: {1} * {2}", Staciakampis, Ilgis, Plotis);
         }
     }
 }
