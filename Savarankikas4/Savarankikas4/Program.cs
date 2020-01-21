@@ -19,7 +19,7 @@ namespace Savarankikas4
             studentuSarasas.Add(new Studentas(4));
             studentuSarasas.Add(new Studentas(5));
 
-           
+
 
         }
     }
